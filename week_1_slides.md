@@ -320,3 +320,59 @@ Example: 755
 ```
 
 ---
+
+```bash
+#!/bin/bash
+
+echo "hallo world"
+```
+
+---
+
+```bash
+#!/bin/sh
+# This is a comment!
+echo "Hello      World"       # This is a comment, too!
+echo "Hello World"
+```
+
+---
+
+```bash
+echo "Hello * World"
+echo Hello * World
+```
+
+---
+
+```bash
+echo Hello      World
+echo "Hello" World
+```
+
+---
+
+```bash
+echo Hello "     " World
+echo "Hello "*" World"
+echo `hello` world
+echo 'hello' world
+```
+
+---
+
+# Cron Jobs
+Automate jobs based on time requirements
+
+But how?
+
+
+---
+
+
+Cron -> daemon process -> a process that run in the background with out any interactivity
+config file at `/etc/crontab`
+
+---
+
+
