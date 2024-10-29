@@ -1,6 +1,6 @@
 ## Materials created and used for OS Fundamentals and Linux Course that I took!
 
-Course Content:
+### Course Content:
 1. Introduction to Open Source and Linux
 2. Basic command line operations
 3. Understanding ownership and handling file permissions 
@@ -15,3 +15,6 @@ Course Content:
 12. Introduction to desktop environments and window managers
 13. Configuring a DE or a WM
 14. Wine: Wine Is Not an Emulator -> Can you game on Linux?!
+---
+
+On a side note, I’m currently in my 3rd year, and this was my first experience teaching a large audience. I had a lot of fun throughout the sessions and thanks to my amazing students!
